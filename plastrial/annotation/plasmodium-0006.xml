@@ -1,0 +1,38 @@
+<annotation>
+	<source>
+		<database>Makerere laboratory images database</database>
+		<annotation>Makerere medical school/Mulago Hospital</annotation>
+		<image></image>
+		<flickrid></flickrid>
+	</source>
+	<owner>
+		<flickrid></flickrid>
+		<name>unknown</name>
+	</owner>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<status>
+		<bad>0</bad>
+		<annotatedby>me</annotatedby>
+		<checkedby>-</checkedby>
+	</status>
+	<object>
+		<name>person</name>
+		<action>Trophozoite</action>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>799.9916</xmin>
+			<ymin>244.4007</ymin>
+			<xmax>849.9916</xmax>
+			<ymax>294.4007</ymax>
+		</bndbox>
+		<bad>0</bad>
+		<checkedby>-</checkedby>
+	</object>
+</annotation>

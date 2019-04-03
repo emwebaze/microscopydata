@@ -1,0 +1,23 @@
+<annotation>
+	<source>
+		<database>Makerere Plasmodium</database>
+		<annotation/>
+		<image/>
+		<flickrid/>
+	</source>
+	<owner>
+		<flickrid></flickrid>
+		<name>unknown</name>
+	</owner>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<status>
+		<bad>0</bad>
+		<annotatedby/>
+		<checkedby>-</checkedby>
+	</status>
+</annotation>
